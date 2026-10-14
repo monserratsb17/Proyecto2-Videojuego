@@ -1,0 +1,5 @@
+../Core/Src/sound8bit.c:54:13:Sound8Bit_SetNote	24	static
+../Core/Src/sound8bit.c:62:6:Sound8Bit_Init	4	static
+../Core/Src/sound8bit.c:67:6:Sound8Bit_StartBackground	8	static
+../Core/Src/sound8bit.c:78:6:Sound8Bit_Update	16	static
+../Core/Src/sound8bit.c:104:6:Sound8Bit_Stop	4	static
